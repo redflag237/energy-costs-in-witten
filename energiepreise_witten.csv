@@ -1,0 +1,11 @@
+Art;Tarifart;Tarif Start;Tarif Ende;Korridor Beginn;Korridor Ende;Grundpreis Netto Jahr;Grundpreis Brutto Jahr;Grundpreis Netto;Grundpreis Brutto;Arbeitspreis Netto;Arbeitspreis Brutto
+Strom;Privatkunden Grundversorgung;01.10.2022;31.01.2023;0;99999;102,86;122,40;8,57;10,20;0,3368;0,4008
+Strom;Privatkunden Ersatzversorgung;01.02.2023;;0;99999;102,86;122,40;8,57;10,20;0,4105;0,4885
+Strom;Privatkunden Grundversorgung;01.02.2023;;0;99999;107,90;128,40;8,99;10,70;0,3972;0,4727
+Strom;Gewerbe Grundversorgung;01.10.2022;31.01.2023;0;99999;102,86;122,40;8,57;10,20;0,3368;0,4029
+Strom;Gewerbe Grundversorgung;01.02.2023;;0;99999;128,40;107,90;10,70;8,99;0,4727;0,3972
+Gas;Privatkunden Grundversorgung;01.02.2023;;0;4600;36,81;39,39;;;0,2031;0,2173
+Gas;Privatkunden Grundversorgung;01.02.2023;;4601;8893;85,30;91,91;;;0,1923;0,2058
+Gas;Privatkunden Grundversorgung;01.02.2023;;8894;11549;127,00;135,89;;;0,1877;0,2008
+Gas;Privatkunden Grundversorgung;01.02.2023;;11550;44620;168,73;180,54;;;0,1842;0,1971
+Gas;Privatkunden Grundversorgung;01.02.2023;;44621;;;;;;0,1880;0,2011
